@@ -59,4 +59,4 @@
 
 * **Portfolio:** [hamzaka.me](https://hamzaka.me)
 * **Agency:** [DezignWise](https://dezignwise.online)
-* **Contact:** [WhatsApp Link](+92 332 3500430)
+* **Contact:** [WhatsApp](https://wa.me/923323500430) | [Email](mailto:hamza@dezignwise.online)
