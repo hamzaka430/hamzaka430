@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Hamza 👋
-### Founder & Lead Product Engineer at DezignWise | Laravel · PHP · Full-Stack Web Development | Karachi, Pakistan
+### Founder & Lead Product Engineer at DezignWise | Full-Stack · AI-Powered Apps · Laravel · Next.js | Karachi, Pakistan
 
-**I build high-performance web applications, intelligent backend architectures, and enterprise-grade solutions for clients across Pakistan and the Gulf region.**
+**I build high-performance web applications, AI-powered SaaS products, and enterprise-grade solutions for clients across Pakistan and the Gulf region.**
 
 - 🏢 **Founder** of [DezignWise](https://dezignwise.online) — a UI/UX, branding & web development agency based in Karachi
 - 🌐 **Portfolio:** [hamzaka.me](https://hamzaka.me)
@@ -12,57 +12,77 @@
 
 ## 🛠️ Technical Skills & Expertise
 
+### Languages
+PHP · JavaScript · TypeScript · HTML5 · CSS3
+
 ### Backend Development
-- **Languages & Frameworks:** PHP, Laravel, MVC Architecture, Object-Oriented Programming (OOP)
-- **API Development:** RESTful APIs, Third-Party Integrations, Authentication & Authorization Systems
+- **Frameworks:** Laravel 11, Node.js, Hono, Express.js
+- **API Development:** RESTful APIs, Third-Party Integrations, OAuth2, Webhooks
+- **Auth & Security:** Clerk, Laravel Sanctum, RBAC, JWT, CSRF Protection
 - **Optimization:** Code Refactoring, Performance Tuning, Security Best Practices
 
-### Database Management
-- **Systems:** MySQL, MongoDB
-- **Capabilities:** Schema Design, Query Optimization, Indexing, Data Integrity
+### Frontend & UI/UX
+- **Frameworks:** React 18, Next.js 15, Vue 3, Inertia.js, Bootstrap, Tailwind CSS
+- **Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator, Canva
 
-### Frontend & UI/UX Design
-- **Core Technologies:** JavaScript (ES6+), HTML5, CSS3, Bootstrap, Blade Components
-- **Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator
-- **Frameworks:** Framer, Node.js, Express.js
+### Database & Cloud
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud & Storage:** AWS S3, Cloudflare R2, Redis
+- **ORM:** Prisma, Eloquent
+- **AI:** OpenAI GPT-4o, RAG Architecture, Qdrant Vector DB
+
+### DevOps & Tools
+Git · Docker · Vite · PM2 · Heroku · Netlify · Cloudflare Pages
 
 ---
 
 ## 🚀 Featured Projects
 
-### [DezignWise — Web Design & Branding Agency Platform](https://dezignwise.online)
-**Stack:** Laravel · Bootstrap · JavaScript
-> A full-service digital agency ecosystem engineered for global service delivery — optimized for page-load performance, responsive layouts, and modern visual branding.
+### [FinSight AI — AI Financial Assistant for SMEs](https://github.com/hamzaka430/Fintech-solution)
+**Stack:** Next.js 15 · TypeScript · PostgreSQL · OpenAI GPT-4o · Prisma · Clerk · RAG
+> Production-grade SaaS financial intelligence platform. Features AI-powered insights, invoice management, expense tracking, cash flow forecasting, and a RAG-based chatbot grounded in real financial data.
 
 ---
 
-### [Invoizo — Automated Invoice Management System](https://github.com/hamzaka430/invoizo)
-**Stack:** Laravel · PHP · MySQL · Bootstrap
-> A streamlined financial web application featuring instant PDF invoice generation, client lifecycle management, and structured billing records for small businesses.
+### [UniComm Dashboard — Unified Communication Platform](https://github.com/hamzaka430/unified-comm-dashboard)
+**Stack:** Laravel 11 · React 18 · Inertia.js · PostgreSQL · Redis · Gmail API · WhatsApp API · Instagram API
+> Integrates Gmail, Instagram Business, and WhatsApp Cloud API into a single dashboard. Features OAuth2, real-time webhooks, background queue sync, RBAC, and full conversation management.
 
 ---
 
-### [Salon ERP — Salon Management System](https://github.com/hamzaka430/salon-erp)
-**Stack:** Laravel · MySQL · Blade Components
-> Business automation ERP platform with automated appointment scheduling, Role-Based Access Control (RBAC) for staff management, and financial checkout tracking.
+### [HamzaVaultX — Cloud Storage Platform](https://github.com/hamzaka430/HamzaVaultX)
+**Stack:** Laravel 11 · Vue 3 · Inertia.js · PostgreSQL · Cloudflare R2
+> A Google Drive-style SaaS application with file/folder management, sharing, favorites, trash & restore, bulk downloads, and storage analytics.
 
 ---
 
-### [Mosque Connector — Community Prayer Time Portal](https://github.com/hamzaka430/mosque-connector)
-**Stack:** Laravel · JavaScript · Web APIs
-> A community-focused web utility for real-time prayer time synchronization and automated mosque announcement management — built for Pakistani communities.
+### [Doc Tracker — Enterprise Document Management](https://github.com/hamzaka430/doc_tracker)
+**Stack:** Laravel 11 · MySQL · AWS S3 · Bootstrap
+> Production document lifecycle tracker with SAP error tracking, PDF generation, analytics dashboard, soft deletes, bulk submit, and AWS S3 cloud storage.
 
 ---
 
-### [Doc Tracker — Document Management System](https://github.com/hamzaka430/doc_tracker)
-**Stack:** Laravel · MySQL · PHP
-> A document lifecycle tracking system designed to manage, organize, and monitor document workflows in enterprise environments.
+### [Aura Fragrances — Luxury E-Commerce](https://github.com/hamzaka430/Aura_fragrences)
+**Stack:** Hono · TypeScript · Cloudflare Pages · Vite
+> Premium perfume e-commerce website with dark luxury design system, product filtering, cart/wishlist, blog, and full checkout flow. Deployed on Cloudflare Pages.
 
 ---
 
-### [Harvel Store — E-Commerce Storefront](https://github.com/hamzaka430/harvel-store)
-**Stack:** HTML5 · CSS3 · JavaScript · Bootstrap
-> A lightweight, fully responsive e-commerce frontend interface optimized for high-fidelity rendering and intuitive user journeys.
+### [Invoizo — Invoice Generator](https://github.com/hamzaka430/Invoizo_Invoice_Generator)
+**Stack:** HTML5 · CSS3 · JavaScript · Netlify
+> Client-side invoice generator with real-time preview, PDF export, multi-currency support, and zero backend dependency.
+
+---
+
+### [BarberX — Salon ERP](https://github.com/hamzaka430/BarberX)
+**Stack:** Laravel · MySQL · Blade · Tailwind CSS
+> Salon management ERP with appointment scheduling, RBAC staff management, and financial checkout tracking.
+
+---
+
+### [Salaah Connector — Mosque Finder](https://github.com/hamzaka430/Salaah-Connector-App)
+**Stack:** Laravel · Leaflet.js · JavaScript · MySQL
+> Location-based mosque finder with real-time prayer timings, interactive map, geolocation, and admin dashboard.
 
 ---
 
@@ -86,4 +106,4 @@
 
 ---
 
-*Full-stack web developer and UI/UX designer based in Karachi, Pakistan — specializing in Laravel, PHP, and modern web application development.*
+*Full-stack web developer and UI/UX designer based in Karachi, Pakistan — building AI-powered SaaS products, enterprise web apps, and modern digital experiences.*
