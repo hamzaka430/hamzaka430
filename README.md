@@ -99,10 +99,10 @@ Git · Docker · Vite · PM2 · Heroku · Netlify · Cloudflare Pages
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [hamzaka.me](https://hamzaka.me) |
-| 🏢 Agency | [DezignWise — Web Design Agency Karachi](https://dezignwise.online) |
+| 🌐 Portfolio | [hamzaka.me](https://hamzaka.eu.cc) |
+| 🏢 Agency | [DezignWise — Web Design Agency Karachi](https://dezignwise.eu.cc) |
 | 💬 WhatsApp | [+92 332 3500430](https://wa.me/923323500430) |
-| 📧 Email | [hamza@dezignwise.online](mailto:hamza@dezignwise.online) |
+| 📧 Email | [hamza@dezignwise.online](mailto:hamza@dezignwise.eu.cc) |
 
 ---
 
