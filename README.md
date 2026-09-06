@@ -4,7 +4,7 @@
 **I build high-performance web applications, AI-powered SaaS products, and enterprise-grade solutions for clients across Pakistan and the Gulf region.**
 
 - 🏢 **Founder** of [DezignWise](https://dezignwise.eu.cc) — a UI/UX, branding & web development agency based in Karachi
-- 🌐 **Portfolio:** [hamzaka.eu.cc](https://hamzaka.eu.cc)
+- 🌐 **Portfolio:** [hamzaka](https://hamzaka.eu.cc)
 - 💼 Open to freelance projects and long-term collaborations
 - 📍 Based in **Karachi, Pakistan**
 
