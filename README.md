@@ -4,7 +4,7 @@
 **I build high-performance web applications, AI-powered SaaS products, and enterprise-grade solutions for clients across Pakistan and the Gulf region.**
 
 - 🏢 **Founder** of [DezignWise](https://dezignwise.eu.cc) — a UI/UX, branding & web development agency based in Karachi
-- 🌐 **Portfolio:** [hamzaka.me](https://hamzaka.eu.cc)
+- 🌐 **Portfolio:** [hamzaka.eu.cc](https://hamzaka.eu.cc)
 - 💼 Open to freelance projects and long-term collaborations
 - 📍 Based in **Karachi, Pakistan**
 
@@ -99,10 +99,10 @@ Git · Docker · Vite · PM2 · Heroku · Netlify · Cloudflare Pages
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [hamzaka.me](https://hamzaka.eu.cc) |
+| 🌐 Portfolio | [hamzaka.eu.cc](https://hamzaka.eu.cc) |
 | 🏢 Agency | [DezignWise — Web Design Agency Karachi](https://dezignwise.eu.cc) |
 | 💬 WhatsApp | [+92 332 3500430](https://wa.me/923323500430) |
-| 📧 Email | [hamza@dezignwise.online](mailto:hamza@dezignwise.eu.cc) |
+| 📧 Email | [hamza@dezignwise.eu.cc](mailto:hamza@dezignwise.eu.cc) |
 
 ---
 
